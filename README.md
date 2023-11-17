@@ -27,3 +27,7 @@ double resultadoSubtracao = Calculo.Subtrair(2.9, 3.1);
 double resultadoMultiplicacao = Calculo.Multiplicar(2.9, 3.1);
 double resultadoDivisao = Calculo.Dividir(2.9, 3.1);
 bool ehPar = Calculo.IsNumeroPar(4);
+
+## Autor
+Agata Domingues Farias
+
